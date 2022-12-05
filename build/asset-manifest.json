@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/reader-spot/static/css/main.c20ba14f.chunk.css",
+    "main.js": "/reader-spot/static/js/main.8f60668d.chunk.js",
+    "runtime-main.js": "/reader-spot/static/js/runtime-main.c8a3810d.js",
+    "static/js/2.ba6f65bf.chunk.js": "/reader-spot/static/js/2.ba6f65bf.chunk.js",
+    "static/js/3.5d682e15.chunk.js": "/reader-spot/static/js/3.5d682e15.chunk.js",
+    "index.html": "/reader-spot/index.html",
+    "static/js/2.ba6f65bf.chunk.js.LICENSE.txt": "/reader-spot/static/js/2.ba6f65bf.chunk.js.LICENSE.txt",
+    "static/media/books.ec30cd75.jpg": "/reader-spot/static/media/books.ec30cd75.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c8a3810d.js",
+    "static/js/2.ba6f65bf.chunk.js",
+    "static/css/main.c20ba14f.chunk.css",
+    "static/js/main.8f60668d.chunk.js"
+  ]
+}
